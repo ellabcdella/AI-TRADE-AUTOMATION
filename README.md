@@ -19,8 +19,8 @@
 
 ## 📸 실행 화면
 <img width="1897" height="680" alt="image" src="https://github.com/user-attachments/assets/cfa810c1-de7c-459e-95b0-652c73dd63f5" />
-<img width="1882" height="614" alt="image" src="https://github.com/user-attachments/assets/2f81f2d0-8fe4-4363-a4c2-f8d7bc784dc6" />
-<img width="1901" height="394" alt="image" src="https://github.com/user-attachments/assets/a554cdca-4b8c-469c-8402-1d838fcad056" />
+<img width="1882" height="614" alt="image" src="https://github.com/user-attachments/assets/67ad4aea-b770-42dc-9e26-4a07f6eafd1b" />
+<img width="1901" height="394" alt="image" src="https://github.com/user-attachments/assets/8cb63d3e-60a3-4964-a38e-72e7023357a5" />
 
 ## ⚙️ 실행 방법
 1. `.env` 파일에 API 키와 DB 정보 설정
